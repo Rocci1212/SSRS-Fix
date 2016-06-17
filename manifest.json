@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "SSRS Rendering Fix",
+  "name": "SSRS Report Fix",
   "version": "1.0",
   "author": "Isaac Moore",
   "description": "This extension allows Microsoft Reporting Services reports to render correctly in Google Chrome.",
